@@ -4,7 +4,7 @@ We have all been there. That one job that really sucks. You want to get out and 
 
 ## What is covered here
 
-* What languages
+* What languages are out there
 * Where to learn
 * What you need for any specific language
 * Projects that you can build
@@ -15,7 +15,8 @@ From this, you will have a good baseline to get started. You will stumble, you w
 
 * HTML
 * CSS
-* Javascript
+* Javascript - jQuery, Frameworks
+* Node - Frameworks
 * Ruby
 * Python
 * PHP
